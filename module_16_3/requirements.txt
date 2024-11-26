@@ -1,0 +1,11 @@
+pip~=24.2
+attrs~=23.2.0
+google~=3.0.0
+protobuf~=5.28.3
+pillow~=11.0.0
+packaging~=24.2
+pyparsing~=3.2.0
+typing_extensions~=4.12.2
+matplotlib~=3.9.2
+fastapi~=0.115.5
+pydantic~=2.9.2
